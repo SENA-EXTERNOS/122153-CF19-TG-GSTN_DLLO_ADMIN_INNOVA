@@ -92,7 +92,7 @@
                   | Estilo de liderazgo participativo y democrático.
                 li 
                   span.fas.fa-check(style='color: #f85316')
-                  | MAdecuada estructura en los canales de comunicación.
+                  | Adecuada estructura en los canales de comunicación.
                 li 
                   span.fas.fa-check(style='color: #f85316')
                   | Eliminación de posibles fuentes de estrés.

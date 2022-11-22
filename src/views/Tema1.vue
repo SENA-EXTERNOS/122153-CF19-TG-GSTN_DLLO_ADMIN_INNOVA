@@ -21,7 +21,7 @@
       .titulo-sexto.color-acento-contenido
         p
           b Figura 1
-          p Ejemplo de actividades del subcomité de finanzas
+          |  Gestión del talento humano en el proceso administrativo
 
       figure.mb-4
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura1.svg', alt='diagrama')  
@@ -204,8 +204,8 @@
     .mx-auto.col-md-8.mb-4.mt-4
       .titulo-sexto.color-acento-contenido
         p
-          b Figura 2
-          p Los estratos de la capacitación
+          b Figura 2 
+          | Los estratos de la capacitación
 
       figure.mb-4
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura2.svg', alt='diagrama') 
@@ -268,10 +268,10 @@
               ol.lista-ol
                 li 
                   span.fas.fa-check(style='color: #f85316')
-                  | Beneficios de carácter social y económico.
+                  | Diagnóstico de la organización.
                 li 
                   span.fas.fa-check(style='color: #f85316')
-                  | Generación o creación de empleo.
+                  | Determinación de la misión y la visión, así como también de los objetivos estratégicos de la organización.
 
             .col-md-4.col-sm-7.mt-4
               figure(style="width: 170px; margin-top: 5px;")
@@ -316,8 +316,8 @@
     .mx-auto.col-md-9.mb-4.mt-4
       .titulo-sexto.color-acento-contenido
         p
-          b Figura 3
-          p Elementos a tener en cuenta en la planeación de los programas de capacitación
+          b Figura 3 
+          | Elementos a tener en cuenta en la planeación de los programas de capacitación
 
       figure.mb-4
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura3.svg', alt='diagrama') 
@@ -383,7 +383,7 @@
     figure.mb-4
       img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura4.svg', alt='diagrama')
 
-    p.mb-4 Una vez ejecutada la capacitación, se debe aplicar la última fase del proceso: evaluar los resultados.
+    p.mb-4 Una vez ejecutada la capacitación, se debe aplicar la última fase del proceso: <strong>evaluar los resultados.</strong>
     p.mb-4 Se consideran en esta fase, los siguientes aspectos:
 
     SlyderF.mb-5.slyder-g(columnas="col-lg-12 col-xl-4")
@@ -407,6 +407,8 @@
     
     p.mb-4 De igual forma, en el proceso de evaluación de resultados, es necesario analizar y medir tres escenarios claves para determinar el nivel de efectividad.
     
+    p.mb-4 Conozcamos cada uno de ellos:
+
     .row.justify-content-center.mb-4
       .col-md-10
         LineaTiempoD.color-secundario()

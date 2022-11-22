@@ -20,8 +20,8 @@
     .mx-auto.col-md-12.mb-4.mt-4
       .titulo-sexto.color-acento-contenido
         p
-          b Figura 4
-          p Componentes de la calidad de vida en el trabajo
+          b Figura 4 
+          | Componentes de la calidad de vida en el trabajo
 
       figure.mb-4
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura5.svg', alt='diagrama') 
@@ -36,7 +36,7 @@
           img(src='@/assets/curso/temas/texto_destacado/img11.png', alt='imagen relacionada')
       .col-md-7      
         p.mb-4 Concluimos este tema con los programas de bienestar, los cuales se establecen con el objetivo de brindar beneficios a fin de mejorar la calidad de vida de los empleados y buscar estimular el desarrollo personal y profesional. Se consideran como beneficios adicionales al salario, ayudan a bajar los costos incurridos por problemas de salud y disminuyen el índice de rotación del personal.
-        p.mb-4 El objetivo de la gestión del talento humano, es generar un ambiente agradable, y de bienestar para todos los integrantes de la organización. Algunas empresas tienen un índice alto en la rotación de sus trabajadores y se ha encontrado que unos de los factores más relevantes son el clima laboral y la falta de una estructura de comunicación efectiva. Esta clase de situaciones generan un desgaste tanto de tiempo, como de recursos para la empresa. La gestión el talento humano debe aplicar estrategias para mitigar estas falencias, a modo de favorecer a los trabajadores y a la organización. 
+        p.mb-4 El objetivo de la gestión del talento humano, es generar un ambiente agradable, y de bienestar para todos los integrantes de la organización. Algunas empresas tienen un índice alto en la rotación de sus trabajadores y se ha encontrado que unos de los factores más relevantes son el clima laboral y la falta de una estructura de comunicación efectiva. Esta clase de situaciones generan un desgaste tanto de tiempo, como de recursos para la empresa. La gestión del talento humano debe aplicar estrategias para mitigar estas falencias, a modo de favorecer a los trabajadores y a la organización. 
 
     .row.justify-content-center.mb-4
       .col-md-10

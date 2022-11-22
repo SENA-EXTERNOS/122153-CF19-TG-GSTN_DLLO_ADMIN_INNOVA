@@ -54,8 +54,8 @@
       .mx-auto.col-md-12.mb-4.mt-4
       .titulo-sexto.color-acento-contenido
         p
-          b Figura 5
-          p Proceso de comunicación organizacional formal
+          b Figura 5 
+          | Proceso de comunicación organizacional formal
 
       figure.mb-4
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura6.svg', alt='diagrama') 
