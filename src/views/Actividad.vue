@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Evaluación, capacitación y permanencia de talento humano
-        p Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
+        p Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo, que le capacitan para realizar la evaluación, capacitación y permanencia del talento humano.
         p.mb-4 De acuerdo con la definición planteada en la columna izquierda, arrastre cada término al lugar que considere correcto de la columna derecha.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

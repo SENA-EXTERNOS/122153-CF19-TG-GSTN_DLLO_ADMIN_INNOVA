@@ -122,7 +122,7 @@ export default {
     {
       tema: 'Evaluación de desempeño',
       referencia:
-        'QuestionPro. (s.f.).<em> 10 métodos de evaluación de desempeño para alcanzar tus objetivos.</em> ',
+        'QuestionPro. (s.f.). <i>10 métodos de evaluación de desempeño para alcanzar tus objetivos</i>.',
       tipo: 'Artículo',
       link:
         'https://www.questionpro.com/blog/es/metodos-de-evaluacion-de-desempeno-mas-importantes/#:~:text=Evaluaci%C3%B3n%20360%20%E2%80%8B%E2%80%8Bgrados,obtener%20retroalimentaci%C3%B3n%20de%20fuentes%20externas.',
@@ -130,7 +130,7 @@ export default {
     {
       tema: 'Capacitación',
       referencia:
-        'INFO G-TALENT. (2021). <em>Tutorial – Tipos de capacitación (video).</em> YouTube',
+        'INFO G-TALENT. (2021). <i>Tutorial – Tipos de capacitación</i>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=HgvcR67fjgI',
     },
@@ -138,7 +138,7 @@ export default {
       tema: 'Salud ocupacional',
       referencia:
         'Ley 1562 de 2012. Por la cual se modifica el sistema de riesgos laborales y se dictan otras disposiciones en materia de salud ocupacional. Julio 11 de 2012. ',
-      tipo: 'PDF',
+      tipo: 'Documento legal',
       link:
         'https://www.minsalud.gov.co/Normatividad_Nuevo/Ley%201562%20de%202012.pdf',
     },
@@ -210,29 +210,29 @@ export default {
   referencias: [
     {
       referencia:
-        'Boada, R. (2015).<em> Identificando el talento humano.</em> McGraw-Hill Interamericana.',
+        'Boada, R. (2015). <i>Identificando el talento humano</i>. McGraw-Hill Interamericana.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=7452',
     },
     {
       referencia:
-        'Chiavenato, I. (2009).<em> Gestión del talento humano.</em> McGraw-Hill. ',
+        'Chiavenato, I. (2009). <i>Gestión del talento humano</i>. McGraw-Hill.',
       link:
         'http://repositorio.uasb.edu.bo:8080/bitstream/54000/1143/1/Chiavenato-Talento%20humano%203ra%20ed.pdf ',
     },
     {
       referencia:
-        'Chiavenato, I. (2017). <em> Administración de recursos humanos. El capital humano de las organizaciones.</em> McGraw-Hill. ',
+        'Chiavenato, I. (2017). <i>Administración de recursos humanos. El capital humano de las organizaciones</i>. McGraw-Hill.',
       link:
         'https://www.sijufor.org/uploads/1/2/0/5/120589378/administracion_de_recursos_humanos_-_chiavenato.pdf ',
     },
     {
       referencia:
-        'Cuesta Santos, A. (2010). <em> Gestión del talento humano y el conocimiento. </em> Ecoe Ediciones. ',
+        'Cuesta Santos, A. (2010). <i>Gestión del talento humano y el conocimiento</i>. Ecoe Ediciones.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=110 ',
     },
     {
       referencia:
-        'Louffat, E. (2017).<em> Reclutando y seleccionando al personal.</em> Pearson Educación. ',
+        'Louffat, E. (2017). <i>Reclutando y seleccionando al personal</i>. Pearson Educación.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=10379',
     },
   ],

@@ -12,22 +12,22 @@
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img2.png', alt='imagen relacionada')
       .col-md-7      
-        p Durante toda nuestra vida y frente a cada circunstancia que se nos presenta, estamos en constante análisis y evaluación; examinamos los resultados del año, la situación del país, la relación familiar, la seguridad de nuestra ciudad, del barrio. De igual forma actúan las empresas, evalúan su situación financiera, el comportamiento del mercado, la competencia, el crecimiento o decrecimiento económico, el mercado y el desempeño de sus empleados, entre otros.
+        p Durante toda nuestra vida y frente a cada circunstancia que se nos presenta, estamos en constante análisis y evaluación; examinamos los resultados del año, la situación del país, la relación familiar, la seguridad de nuestra ciudad, del barrio, etc. De igual forma, actúan las empresas, que evalúan su situación financiera, el comportamiento del mercado, la competencia, el crecimiento o decrecimiento económico, y el desempeño de sus empleados, entre otros.
         p La evaluación hace parte del proceso administrativo y sus objetivos más relevantes son los de mejorar y fortalecer situaciones detectadas que no estén aportando, de manera eficiente, al objetivo general de la empresa. 
     
     p.mb-4 En la Figura 1 se expone cómo la gestión del talento humano, aporta a este principio administrativo. 
 
     .mx-auto.col-md-10.mb-4
       .titulo-sexto.color-acento-contenido
-        p
-          b Figura 1
-          |  Gestión del talento humano en el proceso administrativo
+        h5 Figura 1
+        br
+        span.fst-italic Gestión del talento humano en el proceso administrativo
 
       figure.mb-4
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura1.svg', alt='diagrama')  
     
       .cajon.color-acento-botones.color-fondo-secundario.p-4
-        p.mb-0 Dependiendo de los resultados obtenidos en dicha evaluación, se deben trazar los planes de mejoramiento, encaminados a corregir las no conformidades y fortalecer los aspectos positivos identificados; por consiguiente, es allí donde se da paso a la planeación y aplicación de los planes de formación a los empleados, donde la capacitación consiste en ofrecer al trabajador una alternativa de mejoramiento, sea en conocimientos técnicos o del saber o en aspectos conductuales tales como trabajo en equipo, comunicación, puntualidad, responsabilidad, entre otros.  
+        p.mb-0 Dependiendo de los resultados obtenidos en dicha evaluación, se deben trazar los planes de mejoramiento, encaminados a corregir las no conformidades y fortalecer los aspectos positivos identificados; por consiguiente, es allí donde se da paso a la planeación y aplicación de los planes de formación de los empleados, donde la capacitación consiste en ofrecer al trabajador una alternativa de mejoramiento, sea en conocimientos técnicos, del saber o en aspectos conductuales tales como trabajo en equipo, comunicación, puntualidad, responsabilidad, entre otros.  
 
     separador
 
@@ -159,7 +159,7 @@
     
     p.mb-4 Los indicadores de gestión son unidades de medida que permiten identificar el nivel de rendimiento de una actividad o proceso específico; su objetivo es servir de referencia a la hora de evaluar el rendimiento de un área o proceso.
 
-    p.mb-4 Teniendo en cuenta todos los temas inherentes a proceso de la gestión del talento humano, contamos con los siguientes indicadores:
+    p.mb-4 Teniendo en cuenta todos los temas inherentes al proceso de la gestión del talento humano, contamos con los siguientes indicadores:
 
     .row.justify-content-center.mb-4
       .col-md-3.col-lg-4(style="margin-top: 20px; ")
@@ -194,18 +194,18 @@
     
     .row.justify-content-center.mb-5
       .col-md-7      
-        p.mb-4 Teniendo en cuenta la constante evolución y globalización de los mercados, las empresas han tenido que dejar su modelo estático y darle la bienvenida a un modelo más flexible, atento y dispuesto al cambio. Aquellas empresas cuya adaptación no fue aceptada de la manera en que el mercado lo exigía, tendieron a la desaparición. Sin embargo, los entornos no son estables y vemos cambios drásticos en la economía, en el clima, en la política, en las relaciones comerciales o diplomáticas entre países y en el mercado; por lo que los modelos administrativos se transformaron a flexibles y orgánicos, dispuestos al cambio, a modo de lograr la permanencia y la conservación.
+        p.mb-4 Teniendo en cuenta la constante evolución y globalización de los mercados, las empresas han tenido que dejar su modelo estático y darle la bienvenida a un modelo más flexible, atento y dispuesto al cambio. Aquellas empresas cuya adaptación no fue aceptada de la manera en que el mercado lo exigía, tendieron a la desaparición. Sin embargo, los entornos no son estables y vemos cambios drásticos en la economía, en el clima, en la política, en las relaciones comerciales o diplomáticas entre países y en el mercado; por lo que los modelos administrativos se transformaron para ser más flexibles y orgánicos, dispuestos al cambio, a modo de lograr la permanencia y la conservación.
         .cajon.color-acento-botones.color-fondo-secundario.p-4
-          p.mb-0 Con este nuevo concepto de modelo administrativo, las organizaciones identificaron la necesidad de contar con un recurso humano bajo el mismo enfoque: flexible, innovador, en constante crecimiento y dispuesto al cambio, de acuerdo con las necesidades del mercado; para este efecto, se establecen dentro de la gestión del talento humano, actividades de aprendizaje y conocimiento enfocadas al desarrollo y capacitación de las personas y asimismo, de la organización. Teniendo en cuenta a Chiavenato (2009), la capacitación se da por medio de unos estratos, los cuales son representados en la Figura 2.
+          p.mb-0 Con este nuevo concepto de modelo administrativo, las organizaciones identificaron la necesidad de contar con un recurso humano bajo el mismo enfoque: flexible, innovador, en constante crecimiento y dispuesto al cambio, de acuerdo con las necesidades del mercado; para este efecto, se establecen dentro de la gestión del talento humano, actividades de aprendizaje y conocimiento enfocadas al desarrollo y capacitación de las personas y, asimismo, de la organización. Teniendo en cuenta a Chiavenato (2009), para quien la capacitación se da por medio de unos estratos, los cuales son representados en la Figura 2.
       .col-md-5
         figure.mw-sm-350px(style="margin-top: 25px;")
           img(src='@/assets/curso/temas/texto_destacado/img8.png', alt='imagen relacionada')
     
     .mx-auto.col-md-8.mb-4.mt-4
       .titulo-sexto.color-acento-contenido
-        p
-          b Figura 2 
-          | Los estratos de la capacitación
+        h5 Figura 2
+        br
+        span.fst-italic Los estratos de la capacitación
 
       figure.mb-4
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura2.svg', alt='diagrama') 
@@ -216,7 +216,7 @@
 
     p.mb-4 Es preciso recalcar que existe una diferencia entre la capacitación y el desarrollo de las personas. La capacitación está relacionada con el presente, es decir, aporta insumos de conocimiento y desarrollo de habilidades al trabajador, para cumplir eficientemente las funciones asignadas a su cargo, mientras que el desarrollo es un proceso a futuro, se enfoca en los nuevos puestos que el trabajador podrá ejercer dentro de la organización y, por ende, en las nuevas competencias y habilidades que requerirá para hacerlo. Los dos, tanto capacitación como desarrollo, son procesos enfocados al crecimiento y al aprendizaje.
 
-    p.mb-4 Según Chiavenato (2017), los objetivos más relevantes para alcanzar mediante el desarrollo del proceso de capacitación en la organización, son los siguientes:
+    p.mb-4 Según Chiavenato (2017), los objetivos más relevantes de alcanzar mediante el desarrollo del proceso de capacitación en la organización, son los siguientes:
 
     .row.justify-content-center.mb-4
       .col-md-8.col-lg-8
@@ -249,14 +249,14 @@
       .col-md-3.col-lg-4(style="margin-top: 20px; ")
         img(src='@/assets/curso/temas/texto_destacado/img9.png', alt='imagen relacionada') 
     
-    p.mb-4 Hablemos sobre el diagnóstico, primera etapa de la capacitación, el cual hace referencia al levantamiento del inventario de necesidades de capacitación, evidenciadas en los resultados de las evaluaciones de desempeño; estas necesidades son carencias en la preparación profesional de los trabajadores y significa la diferencia que hay entre lo que el personal debe saber y hacer, y en lo que realmente sabe y hace. 
+    p.mb-4 Hablemos sobre el diagnóstico; primera etapa de la capacitación, el cual hace referencia al levantamiento del inventario de necesidades de capacitación, evidenciadas en los resultados de las evaluaciones de desempeño; estas necesidades son carencias en la preparación profesional de los trabajadores y significa la diferencia que hay entre lo que el personal debe saber y hacer, y lo que realmente sabe y hace. 
     
     .row.justify-content-center.mb-4
       .col-md-10
         .cajon.color-primario.color-fondo.p-4
           p.mb-0 Una necesidad de capacitación es un área de información sobre un individuo o un grupo de personas, que deben ser desarrolladas para mejorar y/o aumentar su eficiencia, eficacia y productividad en el trabajo. En la medida en que la capacitación se enfoque en solucionar dicha necesidad o carencia, será positivo para los trabajadores, para la organización y para los clientes.
     
-    p.mb-4 La realización de un diagnóstico de necesidades de capacitación, se puede ejecutar por medio de cuatro aspectos Chiavenato (2009):
+    p.mb-4 La realización de un diagnóstico de necesidades de capacitación, se puede ejecutar por medio de cuatro aspectos. Chiavenato (2009):
 
     .row.justify-content-around.align-items-center
       .col-lg-9
@@ -283,7 +283,7 @@
                 img(src='@/assets/curso/temas/tarjetas/placeholder2.svg', alt='imagen ilustrativa')
             .col-md-8(style=" margin-top: 20px;")
               h4 Análisis de los recursos humanos
-              p Determinación de cuáles son los comportamientos, las actitudes y las competencias necesarias para alcanzar los objetivos de la organización.
+              p.text-start Determinación de cuáles son los comportamientos, las actitudes y las competencias necesarias para alcanzar los objetivos de la organización.
               
           .row
             .col-md-8.mb-4.mb-md-0(style=" margin-top: 20px;")
@@ -300,7 +300,7 @@
                 img(src='@/assets/curso/temas/tarjetas/placeholder4.svg', alt='imagen ilustrativa')
             .col-md-8(style=" margin-top: 20px;")
               h4 Análisis de la capacitación 
-              p Objetivos que serán utilizados en la evaluación del programa de capacitación.
+              p.text-start Objetivos que serán utilizados en la evaluación del programa de capacitación.
               
     .row.justify-content-center.mb-4
       .col-md-7 
@@ -315,9 +315,9 @@
 
     .mx-auto.col-md-9.mb-4.mt-4
       .titulo-sexto.color-acento-contenido
-        p
-          b Figura 3 
-          | Elementos a tener en cuenta en la planeación de los programas de capacitación
+        h5 Figura 3
+        br
+        span.fst-italic Elementos a tener en cuenta en la planeación de los programas de capacitación
 
       figure.mb-4
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura3.svg', alt='diagrama') 
@@ -376,12 +376,12 @@
             h4.mb-4 Cursos
             p.mb-0 Se refiere a una técnica que permite desarrollar habilidades, destrezas y conocimientos técnicos profundos, sobre un tema específico inherente a las funciones del cargo.
     
-    p.mb-4 Importante: todas las técnicas de capacitación se pueden facilitar en escenarios presenciales y virtuales.
+    p.mb-4 #[b Importante:] todas las técnicas de capacitación se pueden facilitar en escenarios presenciales y virtuales.
 
     p.mb-4 Ahora conozcamos todo el proceso de capacitación:
 
     figure.mb-4
-      img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura4.svg', alt='diagrama')
+      img(data-aos="flip-left" src='@/assets/curso/temas/figuras/1.svg', alt='diagrama')
 
     p.mb-4 Una vez ejecutada la capacitación, se debe aplicar la última fase del proceso: <strong>evaluar los resultados.</strong>
     p.mb-4 Se consideran en esta fase, los siguientes aspectos:
@@ -497,7 +497,7 @@
               figure(style="width: 80px; margin-top: 5px;")
                 img(src='@/assets/curso/temas/tarjetas/placeholder5.svg', alt='imagen ilustrativa')
             .col-md-8.mb-4.mb-md-0(style=" margin-top: 70px;")
-              p Definición de la modalidad de capacitación
+              p Definición de la modalidad de capacitación.
           
           .row
             .col-md-8(style=" margin-top: 20px;")

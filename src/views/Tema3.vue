@@ -158,7 +158,7 @@
     .bloque-texto-a.color-primario.p-4.p-md-5.mb-5(style="background-color: #E8E8E8")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-5.mb-4.mb-lg-0(style="background-color: #E8E8E8")
-          h3.mb-0 Uno de los factores psicosociales más comunes que padece un 54 % de los trabajadores de una organización, es el estrés; nos referimos a un conjunto de reacciones físicas que se desencadenan por estímulos o situaciones de tensión laborales o familiares. Algunas situaciones que dentro de la organización pueden generar estos síntomas son:
+          h3.mb-0 Uno de los factores psicosociales más comunes que padece un 54 % de los trabajadores de una organización, es el estrés; nos referimos a un conjunto de reacciones físicas que se desencadenan por estímulos o situaciones de tensión, sean laborales o familiares. Algunas situaciones que dentro de la organización pueden generar estos síntomas son:
         .col-lg-7
           .bloque-texto-a__texto.p-4
             ol.lista-ol

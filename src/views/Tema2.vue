@@ -13,15 +13,15 @@
       .video
         <iframe width="560" height="315" src="https://www.youtube.com/embed/jASywqOHrQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-    p.mb-4 Las acciones para incentivar y motivar a las personas, se destacan dentro de los procesos más importantes de la gestión del talento humano. Dentro de los muchos procesos que las organizaciones aplican, encontramos las retribuciones o recompensas, beneficios, planes de bienestar y vida saludable, reconocimientos, satisfacción laboral, entre otros.     
+    p.mb-4 Las acciones para incentivar y motivar a las personas, se destacan dentro de los procesos más importantes de la gestión del talento humano. Intrínsecamente, a los muchos procesos que las organizaciones aplican, encontramos las retribuciones o recompensas, beneficios, planes de bienestar y vida saludable, reconocimientos, satisfacción laboral, entre otros.    
     
-    p.mb-4 Ofrecer y mantener la calidad de vida a los trabajadores, implica la construcción de una cantidad de componentes que se presentan en la Figura 4.
+    p.mb-4 Ofrecer y mantener la calidad de vida a los trabajadores, implica la construcción de una cantidad de componentes que se presentan en la siguiente figura.
 
     .mx-auto.col-md-12.mb-4.mt-4
       .titulo-sexto.color-acento-contenido
-        p
-          b Figura 4 
-          | Componentes de la calidad de vida en el trabajo
+        h5 Figura 4
+        br
+        span.fst-italic Componentes de la calidad de vida en el trabajo
 
       figure.mb-4
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura5.svg', alt='diagrama') 
@@ -41,7 +41,7 @@
     .row.justify-content-center.mb-4
       .col-md-10
         .cajon.color-primario.color-fondo.p-4
-          p.mb-0 Es importante aclarar que todas las organizaciones son diferentes, tanto por su actividad, ubicación, estructura, cultura, entre otros, como por los planes de bienestar que deben ser planeados y ejecutados conforme a las condiciones y necesidades de la empresa; no es recomendable usar planes de bienestar exitosos, aplicados en otras organizaciones, porque pueden resultar un verdadero fracaso, a razón que no se apuntó a las necesidades y condiciones puntuales de la organización.
+          p.mb-0 Es importante aclarar que todas las organizaciones son diferentes, tanto por su actividad, ubicación, estructura, cultura, entre otros, como por los planes de bienestar que deben ser planeados y ejecutados conforme con las condiciones y necesidades de la empresa; no es recomendable usar planes de bienestar exitosos, aplicados en otras organizaciones, porque pueden resultar un verdadero fracaso, en razón a que no se apuntó a las necesidades y condiciones precisas de la organización.
     
     p.mb-4 El personal encargado de la planificación y aplicación de los planes de bienestar, debe conocer muy bien la situación actual de los trabajadores, para que puedan apuntar efectivamente a la solución de todas las situaciones detectadas. Las actividades propias de los programas de bienestar son:   
 
@@ -80,7 +80,7 @@
     .row.justify-content-center.mb-5
       .col-md-7      
         p.mb-4 No podemos olvidarnos que parte del bienestar laboral es el clima organizacional, el cual se define como un conjunto de percepciones medibles relacionadas con el espacio o sitio de trabajo; es percibido de manera directa o indirecta, por los trabajadores vinculados a la empresa.
-        p Cuando el clima organizacional se percibe de manera positiva, es decir, una percepción de conformidad, seguridad, tranquilidad y motivación, habrá muchos beneficios tanto para la empresa como para la organización; mientras que, si la percepción es negativa, los resultados serán negativos para la empresa en cuanto a que esto se refleja en aumentos en el índice de rotación del personal y esto se traduce en altos costos operativos.      
+        p Cuando el clima organizacional se percibe de manera positiva, es decir, una percepción de conformidad, seguridad, tranquilidad y motivación, habrá muchos beneficios tanto para la empresa como para la organización; mientras que, si la percepción es negativa, los resultados serán negativos para la empresa en cuanto a que esto se refleja en aumentos del índice de rotación del personal, traduciéndose en altos costos operativos.  
       .col-md-5
         figure.mw-sm-350px(style="margin-top: 25px;")
           img(src='@/assets/curso/temas/texto_destacado/img13.png', alt='imagen relacionada')
@@ -89,10 +89,7 @@
       .col-md-10
         .cajon.color-acento-botones.color-fondo-secundario.p-4
           p.mb-0 Contar con un buen clima organizacional influye directamente en el desempeño de los trabajadores, y asimismo en los niveles de eficiencia, eficacia y desempeño de la organización; todo esto debido a que, un ambiente laboral agradable, muchas veces importa más que un buen nivel salarial, debido a que las personas necesitan sentirse tranquilas, cómodas, seguras, motivadas y valoradas; en este sentido, si una empresa cumple con estas condiciones, contará con empleados con sentido de pertenencia, dispuestos a dar lo mejor de sí en el desarrollo de las actividades.
-    
-
-
-
+          
 </template>
 
 <script>
