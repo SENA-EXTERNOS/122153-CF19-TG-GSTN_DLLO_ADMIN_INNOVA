@@ -58,7 +58,7 @@
         span.fst-italic Proceso de comunicación organizacional formal
 
       figure.mb-4
-          img(data-aos="flip-left" src='@/assets/curso/temas/figuras/2.svg', alt='diagrama') 
+          img(data-aos="flip-left" src='@/assets/curso/temas/figuras/2.svg', alt='diagrama')  
       
       p.mb-4 Las principales funciones de la comunicación interna son:
 
