@@ -109,7 +109,7 @@
 
     p.mb-4 Algunos de estos factores pueden ser:
 
-    .row.mb-4
+    .row.justify-content-center.mb-4
       .col-sm-6.col-lg-2.mb-4.mb-lg-0(style=" width: 213px;")
         .tarjeta.p-4(style='min-height:220px; height:180px; background-color: #CFE5B6')
           .row.justify-content-center.mb-3
