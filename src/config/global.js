@@ -122,7 +122,7 @@ export default {
     {
       tema: 'Evaluación de desempeño',
       referencia:
-        'QuestionPro. (s.f.). <i>10 métodos de evaluación de desempeño para alcanzar tus objetivos</i>.',
+        'QuestionPro. (s.f.). <i>11 métodos de evaluación de desempeño para alcanzar tus objetivos</i>.',
       tipo: 'Artículo',
       link:
         'https://www.questionpro.com/blog/es/metodos-de-evaluacion-de-desempeno-mas-importantes/#:~:text=Evaluaci%C3%B3n%20360%20%E2%80%8B%E2%80%8Bgrados,obtener%20retroalimentaci%C3%B3n%20de%20fuentes%20externas.',

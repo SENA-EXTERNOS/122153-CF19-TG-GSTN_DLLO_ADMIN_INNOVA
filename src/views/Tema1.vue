@@ -165,26 +165,26 @@
       .col-md-3.col-lg-4(style="margin-top: 20px; ")
         img(src='@/assets/curso/temas/texto_destacado/img7.png', alt='imagen relacionada') 
       .col-md-8.col-lg-8
-        TabsA.color-acento-contenido.mb-4
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Retención del <br> talento humano")
+        TabsB.color-acento-contenido.mb-4
+          .tarjeta.color-acento-contenido-borde.p-4(titulo="Retención del talento humano")
             .row
               .col-md-12.p-4.color-fondo
                 p Mide la estabilidad laboral de una empresa, porque una alta tasa de rotación implica costos elevados. La tasa de retención estará ligada al clima organizacional, al nivel salarial, a la carga laboral y a las condiciones físicas del cargo y duración del puesto. Este indicador se obtiene comparando la cantidad de trabajadores que se unieron a la empresa en un periodo específico, frente a los que aún permanecen.
               
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Duración en <br> el puesto")
+          .tarjeta.color-acento-contenido-borde.p-4(titulo="Duración en el puesto")
             .row
               .col-md-12.p-4.color-fondo
                 p Algunas de las causas de la rotación se deben a la cantidad de tiempo que pasa un empleado en el mismo cargo; a mayor tiempo, el trabajador tiende a buscar nuevas oportunidades de crecimiento. Este indicador se puede calcular identificando el tiempo medio que tarda un empleado en ascender, sumando la cantidad de meses que lleva cada empleado en el mismo cargo, y dividiendo el resultado entre el número total de empleados.   
               
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Ausentismo <br> laboral")
+          .tarjeta.color-acento-contenido-borde.p-4(titulo="Ausentismo laboral")
             .row
               .col-md-12.p-4.color-fondo
                 p Mide el nivel de ausencias por parte de los empleados, por cualquier motivo. Puede ayudar a identificar un problema de funcionamiento en un área específica, o en la empresa. Se puede medir en términos económicos, tomando el valor de la hora, por la cantidad de horas ausentes.
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Formación y <br> capacitación")
+          .tarjeta.color-acento-contenido-borde.p-4(titulo="Formación y capacitación")
             .row
               .col-md-12.p-4.color-fondo
                 p La capacitación influye directamente en el desarrollo profesional del trabajador; por lo tanto, los procesos de capacitación se traducen en motivación, satisfacción, empoderamiento, sentido de pertenencia y disminuyen en ausentismo. Se mide teniendo en cuenta la cantidad de trabajadores, frente a  la cantidad de trabajadores capacitados.
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Accidentalidad <br> laboral")
+          .tarjeta.color-acento-contenido-borde.p-4(titulo="Accidentalidad laboral")
             .row
               .col-md-12.p-4.color-fondo
                 p El objetivo de toda empresa es mantener un 0 % de accidentalidad laboral; para conseguir este promedio, es necesario aplicar acciones preventivas; por consiguiente, si en la empresa se evidencian casos de accidentalidad, se debe corregir la causa inmediatamente. Se mide cantidad de trabajadores frente a la cantidad de trabajadores accidentados.
@@ -216,32 +216,32 @@
 
     p.mb-4 Es preciso recalcar que existe una diferencia entre la capacitación y el desarrollo de las personas. La capacitación está relacionada con el presente, es decir, aporta insumos de conocimiento y desarrollo de habilidades al trabajador, para cumplir eficientemente las funciones asignadas a su cargo, mientras que el desarrollo es un proceso a futuro, se enfoca en los nuevos puestos que el trabajador podrá ejercer dentro de la organización y, por ende, en las nuevas competencias y habilidades que requerirá para hacerlo. Los dos, tanto capacitación como desarrollo, son procesos enfocados al crecimiento y al aprendizaje.
 
-    p.mb-4 Según Chiavenato (2017), los objetivos más relevantes de alcanzar mediante el desarrollo del proceso de capacitación en la organización, son los siguientes:
+    p.mb-5 Según Chiavenato (2017), los objetivos más relevantes de alcanzar mediante el desarrollo del proceso de capacitación en la organización, son los siguientes:
 
     .row.justify-content-center.mb-4
       .col-md-8.col-lg-8
-        TabsA.color-acento-contenido
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Transmisión de <br>la información")
+        TabsC.color-acento-contenido
+          .tarjeta.color-acento-contenido-borde.p-4(titulo="Transmisión de a información")
             .row
               .col-md-12.p-4.color-fondo
                 p Aumento del conocimiento de las personas. Información sobre la organización, sus clientes, productos y servicios, políticas y directrices, reglas y reglamentos.
               
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Desarrollo de <br> habilidades")
+          .tarjeta.color-acento-contenido-borde.p-4(titulo="Desarrollo de habilidades")
             .row
               .col-md-12.p-4.color-fondo
                 p Mejora de habilidades y destrezas. Habilitar a las personas para la realización y la operación de las tareas, manejo de equipo, máquinas y herramientas.
               
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Desarrollo de <br> actitudes")
+          .tarjeta.color-acento-contenido-borde.p-4(titulo="Desarrollo de actitudes")
             .row
               .col-md-12.p-4.color-fondo
                 p Desarrollo o modificación de conducta. Cambiar actitudes negativas por favorables, adquirir conciencia de las relaciones y mejorar la sensibilidad hacia las personas como los clientes internos y los externos.
           
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Desarrollo de <br> conceptos")
+          .tarjeta.color-acento-contenido-borde.p-4(titulo="Desarrollo de conceptos")
             .row
               .col-md-12.p-4.color-fondo
                 p Elevar el nivel de abstracción. Desarrollar ideas y conceptos para ayudar a las personas a pensar en términos globales y estratégicos.       
           
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Competencias <br> individuales")
+          .tarjeta.color-acento-contenido-borde.p-4(titulo="Competencias individuales")
             .row
               .col-md-12.p-4.color-fondo
                 p Crear y desarrollar competencias. Desarrollar competencias individuales duraderas para saber, saber hacer, saber juzgar y decidir, y saber acontecer.

@@ -43,13 +43,13 @@
         .cajon.color-primario.color-fondo.p-4
           p.mb-0 Es importante aclarar que todas las organizaciones son diferentes, tanto por su actividad, ubicación, estructura, cultura, entre otros, como por los planes de bienestar que deben ser planeados y ejecutados conforme con las condiciones y necesidades de la empresa; no es recomendable usar planes de bienestar exitosos, aplicados en otras organizaciones, porque pueden resultar un verdadero fracaso, en razón a que no se apuntó a las necesidades y condiciones precisas de la organización.
     
-    p.mb-4 El personal encargado de la planificación y aplicación de los planes de bienestar, debe conocer muy bien la situación actual de los trabajadores, para que puedan apuntar efectivamente a la solución de todas las situaciones detectadas. Las actividades propias de los programas de bienestar son:   
+    p.mb-5 El personal encargado de la planificación y aplicación de los planes de bienestar, debe conocer muy bien la situación actual de los trabajadores, para que puedan apuntar efectivamente a la solución de todas las situaciones detectadas. Las actividades propias de los programas de bienestar son:   
 
     .row.justify-content-center.mb-4
       .col-md-3.col-lg-4(style="margin-top: 20px; ")
         img(src='@/assets/curso/temas/texto_destacado/img12.png', alt='imagen relacionada') 
       .col-md-8.col-lg-8
-        TabsA.color-acento-contenido.mb-4
+        TabsC.color-acento-contenido.mb-4
           .tarjeta.color-acento-contenido-borde.p-4(titulo="Salud")
             .row
               .col-md-12.p-4.color-fondo
